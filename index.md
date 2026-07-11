@@ -40,7 +40,7 @@ title: Home
   </div>
 </section>
 <section>
-      <a href="{{ '/contact/' | relative_url }}" class="btn">View projects</a>
-    <a href="{{ '/skills/' | relative_url }}" class="btn btn--ghost">About me</a>
+      <a href="{{ '/contact/' | relative_url }}" class="btn">Contact Me</a>
+    <a href="{{ '/skills/' | relative_url }}" class="btn btn--ghost">Skills</a>
   
 </section>
