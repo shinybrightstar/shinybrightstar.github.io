@@ -11,8 +11,10 @@ title: Home
     data engineer, fully remote. Everything below is real work: real queries, real datasets, real repos.
   </p>
   <div class="hero__cta">
+    <ul>
     <a href="{{ '/projects/' | relative_url }}" class="btn">View projects</a>
     <a href="{{ '/about/' | relative_url }}" class="btn btn--ghost">About me</a>
+    </ul>
   </div>
 </section>
 
