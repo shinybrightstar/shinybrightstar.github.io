@@ -6,15 +6,13 @@ title: Home
   <h1>I turn messy data into pipelines people can trust.</h1>
   <p class="hero__role">Support Specialist &rarr; Data Engineer in progress</p>
   <p class="hero__lede">
-    I'm Judith. My background is customer support and community management, my degrees are in chemical
+    I'm Judith. My background is in customer support and community management, my degrees are in
     engineering and business — and I'm now building the SQL, pipeline, and warehouse skills to work as a
     data engineer, fully remote. Everything below is real work: real queries, real datasets, real repos.
   </p>
   <div class="hero__cta">
-    <ul>
     <a href="{{ '/projects/' | relative_url }}" class="btn">View projects</a>
     <a href="{{ '/about/' | relative_url }}" class="btn btn--ghost">About me</a>
-    </ul>
   </div>
 </section>
 
@@ -40,4 +38,9 @@ title: Home
     </a>
     {% endfor %}
   </div>
+</section>
+<section>
+      <a href="{{ '/contact/' | relative_url }}" class="btn">View projects</a>
+    <a href="{{ '/skills/' | relative_url }}" class="btn btn--ghost">About me</a>
+  
 </section>
